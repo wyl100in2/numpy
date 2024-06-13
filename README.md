@@ -39,7 +39,7 @@ NumPy requires `pytest` and `hypothesis`.  Tests can then be run after installat
 
     python -c "import numpy, sys; sys.exit(numpy.test() is False)"
 
-Code of Conduct
+行動規範
 ----------------------
 
 NumPy is a community-driven open source project developed by a diverse group of
@@ -48,7 +48,7 @@ commitment to creating an open, inclusive, and positive community. Please read t
 [NumPy Code of Conduct](https://numpy.org/code-of-conduct/) for guidance on how to interact
 with others in a way that makes our community thrive.
 
-Call for Contributions
+寄稿の呼びかけ
 ----------------------
 
 The NumPy project welcomes your expertise and enthusiasm!
