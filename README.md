@@ -26,16 +26,16 @@ NumPy is the fundamental package for scientific computing with Python.
 - **Bug reports:** https://github.com/numpy/numpy/issues
 - **Report a security vulnerability:** https://tidelift.com/docs/security
 
-It provides:
+It provides>
 
 - a powerful N-dimensional array object
 - sophisticated (broadcasting) functions
 - tools for integrating C/C++ and Fortran code
 - useful linear algebra, Fourier transform, and random number capabilities
 
-Testing:
+Testing>
 
-NumPy requires `pytest` and `hypothesis`.  Tests can then be run after installation with:
+NumPy requires `pytest` and `hypothesis`.  Tests can then be run after installation with>
 
     python -c "import numpy, sys; sys.exit(numpy.test() is False)"
 
